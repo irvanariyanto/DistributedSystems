@@ -9,7 +9,7 @@ package getmacaddress;
  *
  * @author Bay
  */
-public class GetMAcAddress {
+public class GetMacAddress {
 
     /**
      * @param args the command line arguments
