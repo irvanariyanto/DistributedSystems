@@ -61,9 +61,9 @@ public class ObjectSerialization implements Serializable{
     }
     public static void main(String[] args) {
         // TODO code application logic here
-        ObjectSerialization is=new ObjectSerialization("Dee", "aja", 22);
-        is.saveObject(is);
-        is.readObject(is);
+        ObjectSerialization irvan=new ObjectSerialization("Dee", "aja", 22);
+        irvan.saveObject(is);
+        irvan.readObject(is);
     }
     
 }
